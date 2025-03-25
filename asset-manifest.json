@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/silage-calculator/static/css/main.fb8e2e3a.css",
+    "main.js": "/silage-calculator/static/js/main.f8354a29.js",
+    "static/js/453.c4d21fbf.chunk.js": "/silage-calculator/static/js/453.c4d21fbf.chunk.js",
+    "index.html": "/silage-calculator/index.html",
+    "main.fb8e2e3a.css.map": "/silage-calculator/static/css/main.fb8e2e3a.css.map",
+    "main.f8354a29.js.map": "/silage-calculator/static/js/main.f8354a29.js.map",
+    "453.c4d21fbf.chunk.js.map": "/silage-calculator/static/js/453.c4d21fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8e2e3a.css",
+    "static/js/main.f8354a29.js"
+  ]
+}
