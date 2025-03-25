@@ -1,6 +1,5 @@
 {
   "name": "silage-calculator",
-  "homepage": "https://adatalab.github.io/silage-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
